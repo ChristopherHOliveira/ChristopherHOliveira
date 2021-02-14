@@ -5,10 +5,5 @@
 
 - 🌱 Estou aprimorando conhecimentos nas linguagens de programação JavaScript e Python. Tenho interesses em Node.js, cloud computing (AWS, Google Cloud), Django e MongoDB. Também possuo conhecimentos sobre metodologias ágeis (Scrum e Kanban) com o software Jira.
 
-- 🔗 Linkedin: https://www.linkedin.com/in/christopherholiveira/
 
-- 🔗 Twitter: https://twitter.com/chris_h_o
-
-- 📫 E-mail: christopher.h.oliveira@gmail.com
- 
 - 👾 Mais informações: Biólogo, curioso, mestre em ecologia e evolução, apaixonado por ciência, natureza e seus mistérios.
