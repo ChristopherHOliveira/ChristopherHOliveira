@@ -1,16 +1,14 @@
-### Hi there 👋
+#### 👋 Olá, me chamo Christopher!
+#### 💻 Sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Impacta.
 
-<!--
-**ChristopherHOliveira/ChristopherHOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📄 Vou postar aqui códigos de pequenos projetos que fazem parte do meu aprendizado. Fique à vontade para comentar e contribuir com o que quiser!
 
-Here are some ideas to get you started:
+- 🌱 Estou aprimorando conhecimentos nas linguagens de programação JavaScript e Python. Tenho interesses em Node.js, cloud computing (AWS, Google Cloud), Django e MongoDB. Também possuo conhecimentos sobre metodologias ágeis (Scrum e Kanban) com o software Jira.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔗 Linkedin: https://www.linkedin.com/in/christopherholiveira/
+
+- 🔗 Twitter: https://twitter.com/chris_h_o
+
+- 📫 E-mail: christopher.h.oliveira@gmail.com
+ 
+- 👾 Mais informações: Biólogo, curioso, mestre em ecologia e evolução, apaixonado por ciência, natureza e seus mistérios.
