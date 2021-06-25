@@ -1,4 +1,4 @@
-#### 💻 Sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Impacta.
+- 💻 Desendolvedor Jr. na linguagem Python, Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Impacta.
 
 - 📄 Nos repositórios você poderá encontrar pequenos projetos que fazem parte do meu aprendizado em determinadas tecnologias. Fique à vontade para comentar e contribuir com o que quiser!
 
