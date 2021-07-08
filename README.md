@@ -1,4 +1,4 @@
-- 💻 Desendolvedor Jr. nas linguagens Python e ABAP, Estudante de Análise e Desenvolvimento de Sistemas.
+- 💻 Desendolvedor Jr. nas linguagens Python e ABAP, trainee na Wipro, Estudante de Análise e Desenvolvimento de Sistemas.
 
 - 📄 Nos repositórios você poderá encontrar pequenos projetos que fazem parte do meu aprendizado em determinadas tecnologias. Fique à vontade para comentar e contribuir com o que quiser!
 
