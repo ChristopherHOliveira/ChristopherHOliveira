@@ -4,4 +4,4 @@
 
 - 🌱 Estou aprimorando conhecimentos nas linguagens de programação Python e ABAP mas também tenho interesse em linguagens de programação em geral.
 
-- 👾 Mais informações: Curioso, biólogo, mestre em ecologia e evolução, apaixonado por ciência, natureza e seus mistérios.
+- 👾 Mais informações: Biólogo, curioso, mestre em ecologia e evolução, apaixonado por ciência, natureza e seus mistérios.
